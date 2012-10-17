@@ -1,5 +1,7 @@
 crap, crappity crap
 binders of women
+plan to close
+
 <?php
 	/* 	1) Update the hostname, mysql_user, and mysql_password as necessary to connect to your MySQL database. */
 	$connect = mysql_connect('localhost', 'mysql_user', 'mysql_password');
